@@ -4,6 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import br.com.logan.model.Usuario
 import br.com.logan.repository.UsuarioRepository
+import br.com.logan.repository.UsuarioRepositoryImpl
 
 
 class MainViewModel : ViewModel() {
